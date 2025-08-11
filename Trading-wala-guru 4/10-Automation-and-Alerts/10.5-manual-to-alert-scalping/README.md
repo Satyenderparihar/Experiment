@@ -1,0 +1,1 @@
+# 10.5 Manual To Alert Scalping
