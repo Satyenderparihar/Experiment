@@ -144,17 +144,4 @@
 
 ---
 
-## 🎁 Want More? (Next Steps)
-
-| Resource/Tool                   | Description |
-|----------------------------------|-------------|
-| 📊 **Excel Sheet**               | Position Size Calculator (Auto Risk Logic) |
-| ⚙️ **Pine Script Tool**          | SL/TP Auto-Trigger Script |
-| 📝 **Blogger Format Post**       | SEO-Ready Hindi Blog Article |
-
-📩 बताइए आपको इनमें से क्या चाहिए — मैं आपके लिए बना दूँ:
-
-- ✅ Excel Tool  
-- ✅ Pine Script  
-- ✅ या Markdown eBook Series
-
+ 
