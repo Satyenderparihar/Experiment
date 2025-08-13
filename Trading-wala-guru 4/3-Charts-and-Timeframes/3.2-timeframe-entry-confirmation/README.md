@@ -1,1 +1,0 @@
-# 3.2 Timeframe Entry Confirmation

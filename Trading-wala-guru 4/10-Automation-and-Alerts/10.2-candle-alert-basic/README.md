@@ -1,1 +1,0 @@
-# 10.2 Candle Alert Basic

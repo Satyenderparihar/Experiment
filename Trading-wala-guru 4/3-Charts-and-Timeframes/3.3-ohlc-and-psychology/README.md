@@ -1,1 +1,0 @@
-# 3.3 Ohlc And Psychology

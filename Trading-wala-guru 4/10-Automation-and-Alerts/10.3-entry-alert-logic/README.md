@@ -1,1 +1,0 @@
-# 10.3 Entry Alert Logic
