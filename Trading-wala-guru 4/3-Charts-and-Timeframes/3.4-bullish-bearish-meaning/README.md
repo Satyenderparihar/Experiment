@@ -1,0 +1,1 @@
+# 3.4 Bullish Bearish Meaning
